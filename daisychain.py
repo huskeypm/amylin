@@ -171,7 +171,7 @@ def ConcatenateTrajs(pickleNames,fileOutputDirectory,finalOutputDirectory,writeC
 
   #return ts, allsisi, s_idx
   data = dict()
-  print "This is embarrasingly wrong. Fix this " 
+  print "This is not the most robust way of downsampling; fix at some point"
   data['s']    = allsisi[::downsampleRate,]
   data['s_idx']= s_idx 
   data['j']    = alljisi[::downsampleRate,]
