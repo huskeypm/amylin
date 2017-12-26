@@ -1,4 +1,4 @@
-from separate import * # This imports separate fluxes
+#from separate import * # This imports separate fluxes
 import shannon_2004_mod as model
 # NOTE: this hack has the cut-and-pasted parameters, as described in 
 # 150220_gotranbug 

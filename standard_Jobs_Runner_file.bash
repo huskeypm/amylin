@@ -1,8 +1,9 @@
 ### control, Amy, and HIP over freq 1.0 Hz
+source configgotran.bash
 
 #### making control data ####
-export PATH=/home/AD/bdst227/ipython/ipython-notebooks/Despa/wholecell/despaJobs/ranJobs/
-python daisychain.py -dt 0.10 -jit -stim_period 1000 -T 10000 -iters 30 -fileOutputDirectory $PATH -finalOutputDirectory $PATH -state Na_SL 12.00 -state Na_jct1 12.00 -state Nai 12.00 -var G_CaBk 0.0007539 -var G_NaBk 0.001337 -var I_NaK_max 3.85 -var T 310.00 -var V_max_Jpump 0.009977826 -odeName shannon_2004_rat_NFAT.ode -name $PATH/rat_BASELINE_freq1p0Hz
+export DIR=/home/AD/bdst227/ipython/ipython-notebooks/Despa/wholecell/despaJobs/ranJobs/
+python daisychain.py -dt 0.10 -jit -stim_period 1000 -T 10000 -iters 30 -fileOutputDirectory $DIR -finalOutputDirectory $DIR -state Na_SL 12.00 -state Na_jct1 12.00 -state Nai 12.00 -var G_CaBk 0.0007539 -var G_NaBk 0.001337 -var I_NaK_max 3.85 -var T 310.00 -var V_max_Jpump 0.009977826 -odeName shannon_2004_rat_NFAT.ode -name $DIR/rat_BASELINE_freq1p0Hz
 
 #python daisychain.py -dt 0.10 -jit -stim_period 1000 -T 10000 -iters 30 -fileOutputDirectory /home/AD/bdst227/ipython/ipython-notebooks/Despa/wholecell/despaJobs/ranJobs/ -finalOutputDirectory /net/share/bdst227/Despa/Despa_Simulations_Data/ -downsampleRate 10 -state Na_SL 12.00 -state Na_jct1 12.00 -state Nai 12.00 -var G_CaBk 0.0007539 -var G_NaBk 0.001337 -var I_NaK_max 3.85 -var T 310.00 -var V_max_Jpump 0.009977826 -odeName shannon_2004_rat_NFAT.ode -name /home/AD/bdst227/ipython/ipython-notebooks/Despa/wholecell/despaJobs/ranJobs/rat_BASELINE_freq1p0Hz &
 
