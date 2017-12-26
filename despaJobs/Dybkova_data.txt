@@ -1,0 +1,25 @@
+### data points picked from looking at Dybkova paper. Values are in pixels taken from using Gimp. 
+WT mice
+Pxl_time	Pxl_Concentration
+73		211
+75		211
+76		111
+78		117
+79		130
+80		154
+81		166
+82		171
+83		178
+86		188
+90		199
+95		207
+104		212
+108		213
+109		213
+
+
+
+
+
+
+

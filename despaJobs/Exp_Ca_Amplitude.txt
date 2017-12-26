@@ -1,0 +1,25 @@
+### Data given by the Despas on 11/11/2016
+
+
+Control Cells			Amy Cells			Amy+EET Cells			Amy+P188
+Exp num		Ca Trans	Exp num		Ca Trans	Exp num 	Ca Trans	Exp Num		Ca Trans
+1		1.06		1		4.19		1		2.22		1		2.20		
+2		1.35		2		2.71		2		2.01		2		1.51		
+3		1.58		3		2.40		3		1.31		3		0.90		
+4		3.08		4		2.27		4		1.13		4		1.15		
+5		3.21		5		2.48		5		1.61		5		1.42		
+6		2.36		6		3.47						6		1.82
+7		2.50		7		3.16		Mean		1.656		7		1.17
+8		1.99		8		2.19						8		1.17
+9		1.93		9		2.63		SEM		0.205173097
+10		2.04		10		2.55						Mean 		1.4175
+11		2.05
+12		1.93		Mean		2.805						SEM		0.149089498
+
+Mean		2.09		SEM 		0.197912719
+
+SEM		0.182769104
+
+
+
+

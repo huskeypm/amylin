@@ -1,0 +1,20 @@
+### Data given by Despas on 11/11/2016
+
+Na Concentrations						Na Influx
+Control Cells			Amy Cells			Control Cells				Amy Cells
+Exp num		Nai(mM)		Exp num		Nai(mM)		Exp num		Na Influx (mM/min)	Exp num		Na Influx (mM/min)
+1		10.8		1		08.7		1		1.13			1		0.75
+2		10.7		2		10.4		2		0.99			2		1.67
+3		14.6		3		13.8		3		1.79			3		1.34
+4		15.8		4		16.7		4		0.86			4		0.95
+5		08.7		5		11.7		5		0.54			5		1.93
+6		11.7		6		10.8		6		1.32			6		0.97
+				7		19.6							7		1.20
+Mean		12.05						Mean 		1.105
+				Mean		13.1							Mean		1.258571429
+SEM		1.084665847					SEM 		0.174025860
+				SEM		1.460593487						SEM		0.159410051
+
+
+
+

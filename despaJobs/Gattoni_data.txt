@@ -1,0 +1,32 @@
+### data points picked from looking at Gattoni paper. Values are in pixels taken from using Gimp. 
+WT Rat
+Pxl_time	Pxl_Concentration
+54		393
+75		393
+104		393
+105		238
+107		128
+109		76
+114		48
+124		82
+132		120
+138		165
+150		235
+167		287
+195		344
+232		370
+272		382
+318		391
+346		393
+390		393
+428		393
+472		393
+520		393
+
+
+
+
+
+
+
+
